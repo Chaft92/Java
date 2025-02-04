@@ -12,7 +12,7 @@ public class ask {
         int age = scanner.nextInt();
 
         System.out.println("Hello, " + name + " you are " + age + " years old.");
-        if (age < 18) {
+        if (age < 18 && age > 0 && age < 120) { 
             System.out.println("You are a minor.");
         } else {
             System.out.println("You are an adult.");
