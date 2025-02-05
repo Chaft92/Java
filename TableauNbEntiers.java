@@ -42,7 +42,7 @@ public class TableauNbEntiers {
         System.out.println("Moyenne : " + moyenne);
         System.out.println("Médiane : " + mediane);
         System.out.println("Écart-type : " + ecartType);
-        
+
         scanner.close();
     }
 }
