@@ -1,3 +1,4 @@
+package Exo;
 import java.util.Scanner;
 
 public class ask {

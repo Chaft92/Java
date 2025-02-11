@@ -1,3 +1,4 @@
+package Exo;
 
 public class Compte_Banque{
     private int solde;

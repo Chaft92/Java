@@ -1,3 +1,4 @@
+package Exo;
 public class Produit {
     protected double prix;
 

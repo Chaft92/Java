@@ -1,3 +1,4 @@
+package Exo;
 public interface Transport {
 
     public void deplacer();

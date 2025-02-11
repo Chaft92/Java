@@ -1,3 +1,4 @@
+package Exo;
 
 public class Voiture {
     private String marque;
