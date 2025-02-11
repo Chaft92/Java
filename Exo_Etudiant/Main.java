@@ -17,6 +17,7 @@ public class Main {
         gestion.ajouterEtudiant(new Etudiant("Ewan", 27));
         gestion.ajouterEtudiant(new Etudiant("Jenna", 28));
         gestion.ajouterEtudiant(new Etudiant("Floriane", 20));
+        gestion.ajouterEtudiant(new Etudiant("Tonton", 21));
 
         while (true) {
             System.out.println("\nMenu:");
